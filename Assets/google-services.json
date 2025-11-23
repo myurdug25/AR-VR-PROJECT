@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "941467847634",
+    "firebase_url": "https://arprojesi-ed09d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "arprojesi-ed09d",
+    "storage_bucket": "arprojesi-ed09d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941467847634:android:cd58ed0edfa0295032560b",
+        "android_client_info": {
+          "package_name": "com.ErenPervan.AR"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD58nrkiuEG20FKrQdMC6wpvp7_C08sdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
